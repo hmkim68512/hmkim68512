@@ -1,4 +1,8 @@
-## Hi there 👋
+# 감고당의 구황작물 Factory
+
+![](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 <!--
 **hmkim68512/hmkim68512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
