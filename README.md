@@ -3,7 +3,7 @@
 <img src="https://skillicons.dev/icons?i=swift,py,cpp,docker,raspberrypi,notion&theme=dark" height="56">
 
 
-## <img src="assets/busisland-icon.png" width="36" align="absmiddle"> 버승버승
+## <img src="assets/bus_icon_blue.png" width="36" align="absmiddle"> 버승버승
 실시간 버스 도착 정보를 다이나믹 아일랜드에 띄워주는 iOS 앱  
 잠금화면, 다이나믹 아일랜드, 알림 설정 지원
 
