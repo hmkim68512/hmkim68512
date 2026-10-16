@@ -12,7 +12,7 @@
 
 
 ## 🏠 Homebridge 홈서버
-라즈베리파이에 Docker로 Homebridge를 올려서, Apple HomeKit을 지원하지 않는 기기를 애플 홈에 연동  
+라즈베리파이 + Docker로 Homebridge를 구현, Apple HomeKit을 지원하지 않는 기기를 애플 홈에 연동  
 Pico 2W를 통한 IoT 기기 제작 및 연동
 
 - **Stack**: ![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED) ![Homebridge](https://img.shields.io/badge/Homebridge-000000?style=flat-square&logo=homebridge&logoColor=white) ![HomeKit](https://img.shields.io/badge/HomeKit-000000?style=flat-square&logo=apple&logoColor=white) ![MicroPython](https://img.shields.io/badge/MicroPython-000000?style=flat-square&logo=micropython&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-000000?style=flat-square&logo=mqtt&logoColor=white)
